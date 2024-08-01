@@ -30,7 +30,6 @@ public class program
         BinaryTree tree = new BinaryTree(1);
         tree.Root.Left = new Node(2);
         tree.Root.Right = new Node(3);
-        //Node n = new Node(1);
             
     }
     
